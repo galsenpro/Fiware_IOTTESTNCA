@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0ef1a4-ac9a-4711-bc7b-81feff8a1aad" name="Default" comment="" />
+    <list default="true" id="ba0ef1a4-ac9a-4711-bc7b-81feff8a1aad" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iottestnca/ngsi-sdk-python" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_boutiques.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_hebergement.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_hotels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_restaurants.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_shopping.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_sorties.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_transports.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_utile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_visites.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/events_pro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/events_public.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Fiware_IOTTESTNCA.iml" afterPath="$PROJECT_DIR$/.idea/Fiware_IOTTESTNCA.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" afterPath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/iot/dmFiware.py" afterPath="$PROJECT_DIR$/iottestnca/iot/dmFiware.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" afterPath="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/nca.py" afterPath="$PROJECT_DIR$/iottestnca/nca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hotels.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hotels.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_transports.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_transports.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,103 +42,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$manage.coverage" NAME="manage Coverage Results" MODIFIED="1508144939856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$nca__1_.coverage" NAME="nca (1) Coverage Results" MODIFIED="1508231308921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$manage.coverage" NAME="manage Coverage Results" MODIFIED="1508144939856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$iotHTTP.coverage" NAME="iotHTTP Coverage Results" MODIFIED="1508144921744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca/mapping" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$iotMapping.coverage" NAME="iotMapping Coverage Results" MODIFIED="1508155102001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca/mapping" />
-    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$nca.coverage" NAME="nca Coverage Results" MODIFIED="1508163772033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$settings.coverage" NAME="settings Coverage Results" MODIFIED="1508145527608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fiware_IOTTESTNCA" />
+    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$iotSOURCES.coverage" NAME="iotSOURCES Coverage Results" MODIFIED="1508396416806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca/iot" />
+    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$nca.coverage" NAME="nca Coverage Results" MODIFIED="1508396748494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fiware_IOTTESTNCA/settings.py">
+      <file leaf-file-name="dmFiware.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2232">
-              <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+            <state relative-caret-position="543">
+              <caret line="200" column="30" lean-forward="true" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entries_sorties.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="nca.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nca.py">
+        <entry file="file://$PROJECT_DIR$/iottestnca/nca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParkingGroup.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entries_shopping.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_shopping.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entries_transports.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_transports.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrafficFlowObserved.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/TrafficFlowObserved.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmartPointOfInteraction.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/SmartPointOfInteraction.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entries_visites.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_visites.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entries_visites.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/Fiware/OTC/entries_visites.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -115,8 +88,8 @@
       <file leaf-file-name="iotSOURCES.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+            <state relative-caret-position="221">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#23#35#0" expanded="true" />
               </folding>
@@ -134,7 +107,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iottestnca/ngsi-sdk-python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +122,6 @@
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/KeyPerformanceIndicator.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/OffStreetParking.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/OnStreetParking.json" />
-        <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingAccess.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingSpot.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/Garden.json" />
@@ -176,11 +148,13 @@
         <option value="$PROJECT_DIR$/iottestnca/datamodels/WasteContainerIsle.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/WasteContainerModel.json" />
         <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/WasteContainer.json" />
-        <option value="$PROJECT_DIR$/iottestnca/nca.py" />
         <option value="$PROJECT_DIR$/Fiware_IOTTESTNCA/nca.py" />
-        <option value="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" />
         <option value="$PROJECT_DIR$/Fiware_IOTTESTNCA/settings.py" />
         <option value="$PROJECT_DIR$/nca.py" />
+        <option value="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" />
+        <option value="$PROJECT_DIR$/iottestnca/nca.py" />
+        <option value="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" />
+        <option value="$PROJECT_DIR$/iottestnca/iot/dmFiware.py" />
       </list>
     </option>
   </component>
@@ -190,11 +164,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="277" />
-    <option name="y" value="52" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -228,47 +202,23 @@
               <item name="Fiware_IOTTESTNCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiware_IOTTESTNCA" type="462c0819:PsiDirectoryNode" />
               <item name="iottestnca" type="462c0819:PsiDirectoryNode" />
-              <item name="datamodels" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiware_IOTTESTNCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiware_IOTTESTNCA" type="462c0819:PsiDirectoryNode" />
-              <item name="iottestnca" type="462c0819:PsiDirectoryNode" />
-              <item name="datamodels" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiware_IOTTESTNCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiware_IOTTESTNCA" type="462c0819:PsiDirectoryNode" />
-              <item name="iottestnca" type="462c0819:PsiDirectoryNode" />
-              <item name="datamodels" type="462c0819:PsiDirectoryNode" />
-              <item name="Fiware" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiware_IOTTESTNCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiware_IOTTESTNCA" type="462c0819:PsiDirectoryNode" />
-              <item name="iottestnca" type="462c0819:PsiDirectoryNode" />
-              <item name="datamodels" type="462c0819:PsiDirectoryNode" />
-              <item name="Fiware" type="462c0819:PsiDirectoryNode" />
-              <item name="OTC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiware_IOTTESTNCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiware_IOTTESTNCA" type="462c0819:PsiDirectoryNode" />
               <item name="sourcesOTC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myShowDebugConsoleByDefault" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -288,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nca (1)">
+  <component name="RunManager" selected="Python.nca">
     <configuration name="Fiware_IOTTESTNCA" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,56 +262,20 @@
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
     </configuration>
-    <configuration name="iotMapping" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iottestnca/mapping" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Fiware_IOTTESTNCA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iottestnca/mapping/iotMapping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iotSOURCES" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iottestnca/iot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Fiware_IOTTESTNCA" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="nca (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Fiware_IOTTESTNCA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,39 +298,15 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fiware_IOTTESTNCA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Fiware_IOTTESTNCA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fiware_IOTTESTNCA/settings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="6">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Django server.Fiware_IOTTESTNCA" />
-      <item index="1" class="java.lang.String" itemvalue="Python.iotMapping" />
-      <item index="2" class="java.lang.String" itemvalue="Python.manage" />
-      <item index="3" class="java.lang.String" itemvalue="Python.settings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.nca" />
-      <item index="5" class="java.lang.String" itemvalue="Python.nca (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nca" />
+      <item index="2" class="java.lang.String" itemvalue="Python.iotSOURCES" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.nca (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.nca" />
-        <item index="2" class="java.lang.String" itemvalue="Python.iotMapping" />
-        <item index="3" class="java.lang.String" itemvalue="Python.settings" />
-        <item index="4" class="java.lang.String" itemvalue="Python.manage" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.nca" />
+        <item index="1" class="java.lang.String" itemvalue="Python.iotSOURCES" />
       </list>
     </recent_temporary>
   </component>
@@ -434,16 +324,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="277" y="52" width="1887" height="1092" extended-state="7" />
+    <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -464,15 +354,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/iottestnca/ngsi-sdk-python" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iottestnca/sources/entries_hebergement.json" />
-    <entry file="file://$PROJECT_DIR$/iottestnca/sources/entries_sorties.json" />
     <entry file="file://$PROJECT_DIR$/iottestnca/sources/events_public.json" />
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/device.json">
+    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/Device.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -682,25 +576,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/nca.py" />
     <entry file="file://$PROJECT_DIR$/sources/entries_hotels.json" />
     <entry file="file://$PROJECT_DIR$/sources/entries_shopping.json" />
     <entry file="file://$PROJECT_DIR$/sources/entries_visites.json" />
     <entry file="file://$PROJECT_DIR$/OTC/jsonOutput/entries_hebergement.json" />
-    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_hebergement.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_boutiques.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_hebergement.json" />
+    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_boutiques.json" />
     <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/OTC/entries_boutiques.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -708,84 +589,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/TrafficFlowObserved.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/SmartPointOfInteraction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/Fiware/OTC/entries_visites.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_visites.json" />
+    <entry file="file://$PROJECT_DIR$/Fiware_IOTTESTNCA/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nca.py" />
+    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_shopping.json" />
+    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_transports.json" />
+    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/nca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#23#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/TrafficFlowObserved.json">
+    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/SmartPointOfInteraction.json">
+    <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/Fiware/OTC/entries_visites.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_visites.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fiware_IOTTESTNCA/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2232">
-          <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_shopping.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sourcesOTC/entries_transports.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="543">
+          <caret line="200" column="30" lean-forward="true" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
           <folding />
         </state>
       </provider>

@@ -4,7 +4,7 @@
   "category": ["onstreet", "adjacentSpaces", "loadUnloadZone"],
   "allowedVehicleType": "car,van,lorry",
   "chargeType": ["free"],
-  "refParkingSite": ""daoiz-velarde-23",
+  "refParkingSite": "daoiz-velarde-23",
   "description": "Three parking spots reserved for load and unload",
   "totalSpotNumber": 3,
   "availableSpotNumber": 2,
@@ -22,6 +22,6 @@
   },
   "requiredPermit": "transportPermit",
   "permitActiveHours": {
-     "transportPermit": “Mo, Tu, We, Th, Fr, Sa 10:00-14:00"
+     "transportPermit": "Mo, Tu, We, Th, Fr, Sa 10:00-14:00"
   }
 }

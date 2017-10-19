@@ -4,7 +4,8 @@ import errno
 import xmltodict
 import json
 import os
-from Fiware_IOTTESTNCA.Fiware_IOTTESTNCA import settings
+from Fiware_IOTTESTNCA import settings
+#from Fiware_IOTTESTNCA. import *
 
 class IOTSOURCE:
 
@@ -75,7 +76,9 @@ class IOTSOURCE:
         except Exception as x:
             print(x)
 
-
+    """
+        Function to show all files of specific folder
+    """
     def ncaShowFiles(self,  outputFolder = "convertedSource/", xml_attribs=True,  output = None):
         try:
             print("Viewing contents ...")
