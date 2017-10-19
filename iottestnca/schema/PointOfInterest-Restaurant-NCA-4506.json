@@ -8,7 +8,7 @@
     "description": "Descriptions du Restaurant", 
     "address": {
       "addressCountry": "FR", 
-      "addressLocality": "450 Promenade des anglais" 
+      "addressLocality": "59 Promenade des anglais" 
     },
     "category": ["43X"], #Restaurant sur NCA
     "location": {
@@ -19,5 +19,5 @@
       ]
     },
     "source": null,
-    "refSeeAlso": ["Accomadation-NCA-2017"],
+    "refSeeAlso": ["Restaurant-NCA-2017"],
 }
