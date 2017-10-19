@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0ef1a4-ac9a-4711-bc7b-81feff8a1aad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-Accommodation-NCA-2017.json" afterPath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-Accommodation-NCA-2017.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-Restaurant-NCA-4506.json" afterPath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-Restaurant-NCA-4506.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-SHOP-NCA-1328.json" afterPath="$PROJECT_DIR$/iottestnca/schema/PointOfInterest-SHOP-NCA-1328.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/schema/Restaurant-NCA-4506.json" afterPath="$PROJECT_DIR$/iottestnca/schema/Restaurant-NCA-4506.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iottestnca/schema/category_POI.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dmFiware.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="560" column="8" lean-forward="true" selection-start-line="560" selection-start-column="8" selection-end-line="560" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="entries_boutiques.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="20" selection-end-column="29" />
+              <caret line="20" column="29" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="20" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -52,17 +39,27 @@
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="80" column="14" lean-forward="true" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+              <caret line="80" column="14" lean-forward="false" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entries_shopping.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entries_shopping.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
-              <caret line="45" column="28" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+              <caret line="45" column="28" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entries_utile.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="56" column="13" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="56" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -82,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -92,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="901">
-              <caret line="103" column="34" lean-forward="true" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
+              <caret line="103" column="34" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -102,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+              <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -640,18 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="560" column="8" lean-forward="true" selection-start-line="560" selection-start-column="8" selection-end-line="560" selection-end-column="8" />
+          <caret line="560" column="8" lean-forward="false" selection-start-line="560" selection-start-column="8" selection-end-line="560" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -659,7 +648,7 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="20" selection-end-column="29" />
+          <caret line="20" column="29" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="20" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -675,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="80" column="14" lean-forward="true" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+          <caret line="80" column="14" lean-forward="false" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -691,7 +680,7 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -699,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
-          <caret line="103" column="34" lean-forward="true" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
+          <caret line="103" column="34" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -707,7 +696,7 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -723,7 +712,15 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
-          <caret line="45" column="28" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+          <caret line="45" column="28" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="56" selection-end-column="13" />
           <folding />
         </state>
       </provider>
