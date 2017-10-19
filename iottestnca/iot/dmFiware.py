@@ -115,10 +115,10 @@
 				       "dateObservedTo": "2016-12-07T11:15:00",
 				       "averageHeadwayTime": 0.5,
 				       "intensity": 197,
-				       "capacity": 0.76
+				       "capacity": 0.76,
 				       "averageVehicleSpeed": 52.6,
 				       "averageVehicleLength": 9.87,
-				       "reversedLane": false,
+				       "reversedLane": False,
 				       "laneDirection": "forward"
 				    },{
 					  "id": "porto-ParkingLot-23889",
