@@ -22,9 +22,7 @@
     "website": null,
     "contacts": null,
     "languages": ["Anglais","Allemand", "Italien", "Français" ],
-    "locations": {
-                "location": "Gambetta"
-            },
+    "locations": [ "Gambetta"],
     "categories": ["Infos pratiques", "Cours de français pour étranger", "Adresses utiles"],
     "closures": [
                     {
@@ -35,6 +33,5 @@
                         "closure_day": "Dimanche",
                         "closure_span": "toute la journée"
                     }
-                ]
-                      
+                ]               
 }

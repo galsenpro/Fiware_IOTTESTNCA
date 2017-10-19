@@ -14,8 +14,7 @@
     "email": null,
     "website": "http://www.hm.com/fr",
     "contacts": null,
-    "locations": {
-    "location": [ "Masséna", "Jean Médecin"],
+    "locations":[ "Masséna", "Jean Médecin"],
     "categories": ["Ouverts le dimanche","Mode femme","Toutes les boutiques"],
     "sectors": null,
     "descriptions": null,
