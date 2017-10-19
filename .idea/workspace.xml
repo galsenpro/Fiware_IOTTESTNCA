@@ -2,37 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0ef1a4-ac9a-4711-bc7b-81feff8a1aad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iottestnca/ngsi-sdk-python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_boutiques.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_hebergement.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_hotels.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_restaurants.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_shopping.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_sorties.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_transports.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_utile.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/entries_visites.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/events_pro.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sourcesOTC/events_public.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Fiware_IOTTESTNCA.iml" afterPath="$PROJECT_DIR$/.idea/Fiware_IOTTESTNCA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" afterPath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingGroup.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/datamodels/examples/BikeHireDockingStation.json" afterPath="$PROJECT_DIR$/iottestnca/datamodels/examples/BikeHireDockingStation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/datamodels/examples/OnStreetParking.json" afterPath="$PROJECT_DIR$/iottestnca/datamodels/examples/OnStreetParking.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingSpot.json" afterPath="$PROJECT_DIR$/iottestnca/datamodels/examples/ParkingSpot.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/iot/dmFiware.py" afterPath="$PROJECT_DIR$/iottestnca/iot/dmFiware.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" afterPath="$PROJECT_DIR$/iottestnca/iot/iotSOURCES.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/nca.py" afterPath="$PROJECT_DIR$/iottestnca/nca.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_boutiques.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hebergement.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hotels.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_hotels.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_restaurants.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_shopping.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_transports.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_transports.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/entries_visites.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json" afterPath="$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,18 +23,67 @@
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$iotMapping.coverage" NAME="iotMapping Coverage Results" MODIFIED="1508155102001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca/mapping" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$settings.coverage" NAME="settings Coverage Results" MODIFIED="1508145527608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fiware_IOTTESTNCA" />
     <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$iotSOURCES.coverage" NAME="iotSOURCES Coverage Results" MODIFIED="1508396416806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca/iot" />
-    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$nca.coverage" NAME="nca Coverage Results" MODIFIED="1508396748494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca" />
+    <SUITE FILE_PATH="coverage/Fiware_IOTTESTNCA$nca.coverage" NAME="nca Coverage Results" MODIFIED="1508401468577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iottestnca" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dmFiware.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dmFiware.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="200" column="30" lean-forward="true" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
+            <state relative-caret-position="1495">
+              <caret line="256" column="29" lean-forward="false" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="29" />
+              <folding>
+                <marker date="1508404254924" expanded="true" signature="1:18912" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="19:18910" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16087:16093" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16087:16094" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16087:16095" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16104:18892" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16147:18891" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16148:16616" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16285:16361" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16524:16609" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16619:17910" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="16780:16917" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="17098:17226" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="17266:17394" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="17913:18890" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="18065:18172" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="18353:18547" ph="..." />
+                <marker date="1508404254924" expanded="true" signature="18441:18531" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events_public.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entries_utile.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events_pro.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -92,6 +116,17 @@
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#23#35#0" expanded="true" />
+                <marker date="1508401626709" expanded="true" signature="1741:2575" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="1754:2523" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="1845:2523" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="2008:2455" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="2077:2374" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="2581:2646" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1508401626709" expanded="true" signature="3297:3401" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="3423:3561" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="3703:4010" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="3800:3863" ph="..." />
+                <marker date="1508401626709" expanded="true" signature="4424:4517" ph="..." />
               </folding>
             </state>
           </provider>
@@ -325,15 +360,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -365,21 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iottestnca/sources/events_public.json" />
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/Device.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/AirQualityObserved.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iottestnca/datamodels/examples/WaterQualityObserved.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -643,6 +662,17 @@
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#23#35#0" expanded="true" />
+            <marker date="1508401626709" expanded="true" signature="1741:2575" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="1754:2523" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="1845:2523" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="2008:2455" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="2077:2374" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="2581:2646" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1508401626709" expanded="true" signature="3297:3401" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="3423:3561" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="3703:4010" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="3800:3863" ph="..." />
+            <marker date="1508401626709" expanded="true" signature="4424:4517" ph="..." />
           </folding>
         </state>
       </provider>
@@ -650,15 +680,58 @@
     <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_sorties.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iottestnca/iot/dmFiware.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="200" column="30" lean-forward="true" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
+        <state relative-caret-position="1495">
+          <caret line="256" column="29" lean-forward="false" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="29" />
+          <folding>
+            <marker date="1508404254924" expanded="true" signature="1:18912" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="19:18910" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16087:16093" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16087:16094" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16087:16095" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16104:18892" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16147:18891" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16148:16616" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16285:16361" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16524:16609" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16619:17910" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="16780:16917" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="17098:17226" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="17266:17394" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="17913:18890" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="18065:18172" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="18353:18547" ph="..." />
+            <marker date="1508404254924" expanded="true" signature="18441:18531" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/events_public.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/entries_utile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iottestnca/sourcesOTC/events_pro.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

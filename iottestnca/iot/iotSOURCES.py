@@ -56,6 +56,9 @@ class IOTSOURCE:
         except Exception as x:
             print(x)
 
+    """
+        
+    """
     def ncaConvertListOfFiles(self, listOfFiles, xml_attribs=True):
         try:
             self.ncaCreateFolder(settings.DEST_FOLDER)
