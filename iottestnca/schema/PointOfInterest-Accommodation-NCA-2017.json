@@ -1,6 +1,3 @@
-#POI qui fait référence à un Accommadation:2017
-#
-#
 {
     "id": "PointOfInterest-Accommodation:2017",
     "type": "PointOfInterest",
@@ -10,7 +7,7 @@
       "addressCountry": "ES", 
       "addressLocality": "7 Rue Saint-Fraçois de Paule" 
     },
-    "category": ["43X"], #Accommadation NCA
+    "category": ["43X"], #Nouvelle_Catégorie?
     "location": {
       "type": "Point",
       "coordinates": [

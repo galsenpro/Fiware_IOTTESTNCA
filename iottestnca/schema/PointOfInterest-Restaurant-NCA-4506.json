@@ -10,7 +10,7 @@
       "addressCountry": "FR", 
       "addressLocality": "59 Promenade des anglais" 
     },
-    "category": ["43X"], #Restaurant sur NCA
+    "category": ["43X"], #Nouvelle_Category
     "location": {
       "type": "Point",
       "coordinates": [
@@ -19,5 +19,5 @@
       ]
     },
     "source": null,
-    "refSeeAlso": ["Restaurant-NCA-2017"],
+    "refSeeAlso": ["Restaurant-NCA-4506"],
 }

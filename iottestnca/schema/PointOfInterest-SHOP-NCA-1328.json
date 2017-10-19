@@ -1,21 +1,18 @@
-#POI qui fait référence à un SHOP:1328
-#
-#
 {
     "id": "PointOfInterest-SHOP:1328",
     "type": "PointOfInterest",
-    "name": "LA FAYETTE", #name_fr
-    "description": "Descriptions de la boutique", #descriptions
+    "name": "LA FAYETTE",
+    "description": "Descriptions de la boutique",
     "address": {
-      "addressCountry": "ES", #Split sur le télephone ou name
-      "addressLocality": "7 Rue Saint-Fraçois de Paule" #adress_line1 + adress_line2 + adress_line3
+      "addressCountry": "ES",
+      "addressLocality": "7 Rue Saint-Fraçois de Paule"
     },
-    "category": ["169"], #Boutique - Centre commercial
+    "category": ["169"],
     "location": {
       "type": "Point",
       "coordinates": [
-        -8.768460000000001, #latitude
-        42.60214472222222 #longitude
+        -8.768460000000001,
+        42.60214472222222 
       ]
     },
     "source": null,
